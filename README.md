@@ -1,1 +1,3 @@
-# CNN_repo
+# CNN_repository
+## digit recognition & image classification using CNN
+
